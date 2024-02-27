@@ -1,4 +1,4 @@
-Stakeholder Requirements Document
+**Stakeholder Requirements Document**
 The Stakeholder Requirements Document enables you to capture stakeholder requests and requirements so you understand their needs before planning the rest of the project details or strategy. It should answer the following questions:
 
 Business problem: What is the primary question to be answered or problem to be solved?
@@ -25,7 +25,7 @@ Who should have access to the dashboard? Will the entire dashboard be visible to
 
 
 
-Project Requirements Document
+**Project Requirements Document**
 Once you have established the stakeholder requirements, you can start thinking about the project requirements that need to be met to achieve the stakeholder requirements. The Project Requirements Document contains the following details:
 
 Purpose: Briefly describe why this project is happening and explanation of why the company should invest its resources in it.
@@ -50,7 +50,7 @@ Roll-out plan: Briefly describe the expected scope, priorities and timeline. Con
 
 
 
-Strategy Document
+**Strategy Document**
 Finally, you will create a Strategy Document for your project. This is the final phase of the planning process. The Strategy Document is a collaborative place to align with stakeholders about project deliverables. You will work together to establish information about dashboard functionality and associated metrics and charts.
 
 This is a time to flesh out what metrics will be required, how metrics are calculated, and any limitations or assumptions that exist about the data. Stakeholders think through these details and help the BI professional make final project decisions. Then, the BI professional provides stakeholders with a dashboard mockup to get valuable feedback.
